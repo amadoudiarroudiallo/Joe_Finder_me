@@ -102,3 +102,43 @@
     background-color: rgb(214, 11, 11);
     transition: all 0.4s;
 }
+/*------------------- main section exit--------------------*/
+
+/*------------------- Ceta section --------------------*/
+.red{
+    color: red;
+}
+
+.cota h1{
+    font-size: 3.5rem;
+    color: rgb(7, 7, 78);
+}
+
+.cota .card:hover{
+    color: red;
+    cursor: pointer;
+    transition: all 0.5s;
+    box-shadow: -2px 3px 22px -11px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -2px 3px 22px -11px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px 3px 22px -11px rgba(0,0,0,0.75);
+}
+
+.btn3{
+    height: 70px;
+    width: 70%;
+    outline: none;
+    border: 1px solid rgb(130, 130, 231);
+    border-radius: 5px;
+    transition: all 0.4s;
+    color:  rgb(130, 130, 231);
+    background-color: transparent;
+    margin-left: -4px;   
+}
+
+.btn3:hover:hover{
+    background-color: rgb(102, 102, 214);
+    color: white;
+    border: none;
+    outline: none;
+    transition: all 0.4s;
+}
